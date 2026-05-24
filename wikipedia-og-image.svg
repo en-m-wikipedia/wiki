@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#36c"/>
+  
+  <!-- Wikipedia W logo area -->
+  <text x="80" y="200" font-family="Linux Libertine, Georgia, Times, serif" font-size="120" font-weight="bold" fill="#000">W</text>
+  
+  <!-- Article title -->
+  <text x="80" y="320" font-family="Linux Libertine, Georgia, Times, serif" font-size="48" fill="#000">Roman trade with Hibernia</text>
+  
+  <!-- Subtitle / description -->
+  <text x="80" y="380" font-family="sans-serif" font-size="22" fill="#54595d">Commercial and cultural contact between the Roman</text>
+  <text x="80" y="410" font-family="sans-serif" font-size="22" fill="#54595d">world and the peoples of ancient Ireland</text>
+  
+  <!-- Wikipedia branding -->
+  <text x="80" y="540" font-family="sans-serif" font-size="18" fill="#72777d">From Wikipedia, the free encyclopedia</text>
+  
+  <!-- Subtle bottom border -->
+  <rect x="0" y="626" width="1200" height="4" fill="#eaecf0"/>
+</svg>
